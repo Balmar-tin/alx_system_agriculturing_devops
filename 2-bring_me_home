@@ -1,0 +1,7 @@
+julien@umbuntu:/tmp$pwd
+    /tmp
+julien@umbuntu:/tmp$echo$Home/home/Julien
+julien@umbuntu:tmp$ source ./2-bring_me_home
+julien@umbuntu:~$ pwd
+      /home/Julien
+julien@umbuntu:~ $
